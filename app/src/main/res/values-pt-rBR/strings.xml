@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeChute</string>
+    <string name="nome_jogador">Nome Jogador</string>
+    <string name="team">Time</string>
+    <string name="class_mago">Mago</string>
+    <string name="class_guerreiro">Guerreiro</string>
+    <string name="class_barbaro">Barbaro</string>
+</resources>

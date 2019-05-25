@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clans">
+        <item>@string/class_mago</item>
+        <item>@string/class_guerreiro</item>
+        <item>@string/class_barbaro</item>
+
+    </string-array>
+</resources>

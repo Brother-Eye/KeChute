@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KeChute</string>
+    <string name="nome_jogador">Player Name</string>
+    <string name="team">Team</string>
+    <string name="class_mago">Mage</string>
+    <string name="class_guerreiro">Warrior</string>
+    <string name="class_barbaro">Barbarian</string>
+</resources>
